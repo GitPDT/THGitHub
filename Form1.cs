@@ -16,16 +16,11 @@ namespace Calculator_2
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int so1 = int.Parse(textBox1.Text);
-            int so2 = int.Parse(textBox2.Text);
-            int so3 = so1 + so2;
+            int a = 1;
+            int b = 2;
         }
     }
 }
