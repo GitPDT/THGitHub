@@ -15,5 +15,10 @@ namespace Calculator_2
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
